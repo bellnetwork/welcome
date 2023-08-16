@@ -10,7 +10,7 @@ BellNetwork is your ultimate solution for managing and monitoring various aspect
 - VPN connection management
 - Server monitoring and reporting
 - Cloud storage synchronization
-- ISP (Internet Service Provider) monitoring and data collection
+- ISP (Internet Service Provider)
 - And much more!
 
 No matter if you're an individual, a business, or a tech enthusiast, BellNetwork's versatile scripts are designed to cater to your specific needs and simplify your online management tasks.
